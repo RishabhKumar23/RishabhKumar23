@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rishabh Kumar</h1>
-<h3 align="center">Software developer from India.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishabhkumar23&label=Profile%20views&color=0e75b6&style=flat" alt="rishabhkumar23" /> </p>
+<h3 align="center">A Software developer from India.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rishabhkumar23" alt="rishabhkumar23" /></a> </p>
 
@@ -29,8 +27,4 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/rishabh23"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="rishabh23" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishabhkumar23&show_icons=true&locale=en&layout=compact" alt="rishabhkumar23" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishabhkumar23&show_icons=true&locale=en" alt="rishabhkumar23" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishabhkumar23&" alt="rishabhkumar23" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishabhkumar23&show_icons=true&locale=en&layout=compact" alt="rishabhkumar23" /></p>
